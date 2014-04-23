@@ -1,7 +1,7 @@
 require 'formula'
 
 class PipCompletion < GithubGistFormula
-  url 'https://github.com/ekalinin/pip-bash-completion/blob/d62c37ccdf46b937784ca5072de79558f786a3c3/pip'
+  url 'https://raw.githubusercontent.com/ekalinin/pip-bash-completion/d62c37ccdf46b937784ca5072de79558f786a3c3/pip'
   homepage 'https://github.com/ekalinin/pip-bash-completion'
   sha1 '44793b16421386b754e476a0c2a15107cf61c253'
 
